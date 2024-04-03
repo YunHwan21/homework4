@@ -32,5 +32,5 @@ if(st3.lastName == st2.lastName && st3.studentId == st2.studentId && st3.grade =
 printf("equal\n");
 else
 printf("not equal\n");//비교하는 멤버들 중 하나의 멤버라도 다르다면 not equal 출력
-return 0;
+return 0; //함수 종료
 }
